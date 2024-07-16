@@ -1,3 +1,3 @@
-# measuring-sweng
+# Software Engineering - Measuring Software Engineering
 
-Measuring Software Engineering Report for: CSU33012
+Measuring Software Engineering Report for module: CSU33012
